@@ -1,1 +1,1 @@
-# Igor
+# Este código HTML cria uma página simples com estrutura básica. Ele define uma página com cabeçalho, navegação, conteúdo principal dividido em três seções (Início, Sobre e Contato) e um rodapé. O cabeçalho contém o título "Bem-vindo à Página de Exemplo", e a navegação oferece links para as três seções. O conteúdo principal descreve o propósito da página e fornece informações de contato. O estilo CSS integrado define a aparência da página, como o uso de uma fonte padrão (Arial), cores e espaçamento. O rodapé exibe direitos autorais da página para 2024.
